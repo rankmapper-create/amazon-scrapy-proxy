@@ -1,0 +1,4 @@
+# Copy this file to proxies.txt and replace these examples.
+# Supported schemes are http:// and https://.
+http://username:password@proxy-one.example:8000
+http://username:password@proxy-two.example:8000
